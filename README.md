@@ -33,3 +33,5 @@ The dataset contains __7043__ Unique Values.
 | Random Forest | 0.81 | 0.86 | 0.83 | 75.64% |
 | Kernel SVM | 0.82 | 0.89 | 0.86 | 80.03%
 | Naive Bayes | 0.84 | 0.86 | 0.85 | 78.98% |
+
+![AUC](AUC.png)
